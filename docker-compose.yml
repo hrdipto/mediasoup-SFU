@@ -10,4 +10,4 @@ services:
       - "2000-2020:2000-2020"
 
     volumes:
-      - "C:/Users/dipto/qonda/src:/usr/src"
+      - "C:/Users/BS517/qonda/src:/usr/src"
